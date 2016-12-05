@@ -90,10 +90,11 @@ footer {
 }
 
 input[type=submit]:hover {
-    background-color: #000000;
+    background-color: #00CCFF;
  
 }
 
 .page #fore #hover:hover {
-background-color: #ff000e;
+ opacity: 0.5;
+    filter: alpha(opacity=10);
 }
